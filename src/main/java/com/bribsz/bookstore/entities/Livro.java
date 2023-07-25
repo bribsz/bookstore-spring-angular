@@ -1,4 +1,4 @@
-package com.bribsz.bookstore.entity;
+package com.bribsz.bookstore.entities;
 
 import java.io.Serializable;
 
