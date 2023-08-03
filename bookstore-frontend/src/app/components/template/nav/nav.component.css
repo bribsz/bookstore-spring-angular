@@ -1,0 +1,9 @@
+.container {
+    height: 85%;
+    background-color: blueviolet;
+}
+
+.icon {
+    padding-right: .1rem;
+    margin-bottom: -5px;
+}
