@@ -15,7 +15,9 @@ export class CategoriaCreateComponent implements OnInit{
     descricao: ''
     }
 
-  constructor(private service: CategoriaService, private router: Router) {
+  constructor(
+    private service: CategoriaService, 
+    private router: Router) {
     
   }
 
